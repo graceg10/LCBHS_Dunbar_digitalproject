@@ -3,7 +3,7 @@
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-sheets
 ##########
-
+theme: jekyll-theme-time machine. 
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
@@ -68,4 +68,3 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
-  theme: jekyll-theme-time machine
