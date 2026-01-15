@@ -3,7 +3,7 @@
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-sheets
 ##########
-theme: jekyll-theme-time machine. 
+
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
@@ -28,7 +28,8 @@ tagline: FGCU archives digital project
 description: " Digital collection of photographs, maunscripts and newspapers that highlight student involvement from the schools of Dunbar in Fort Myers, Florida. Viewers can learn about the students admitted at the Dunbar schools and engage with the evolution of these schools by looking at the projects collectively."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Gentle 
-
+# theme: 
+theme: jekyll-theme-time machine 
 ##########
 # COLLECTION SETTINGS
 #
