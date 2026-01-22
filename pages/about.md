@@ -1,6 +1,14 @@
 ---
+title: About  
+layout: about 
+permalink: /about.html 
+# include CollectionBuilder info at bottom
+credits: true
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/features for options to easily add features to the page
 ---
-## About page
+
+## Introduction
 This collectionbuilder was created by Grace Gentle by using archival material from Florida Gulf Coast Univeristy's Bradshaw Library and the Lee County Black History Society Collection. 
 ## Exhibit Introduction: 
 ## About the Collection: 
