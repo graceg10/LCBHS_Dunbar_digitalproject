@@ -29,7 +29,6 @@ description: " Digital collection of photographs, maunscripts and newspapers tha
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Gentle 
 # theme: 
-theme: jekyll-theme-time machine 
 ##########
 # COLLECTION SETTINGS
 #
