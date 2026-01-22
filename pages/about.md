@@ -12,8 +12,8 @@ credits: true
 
 ## About CollectionBuilder-Sheets
 
-This is the about page demonstrating a digital exibit of school life at Dunbar Elementary and Dunbar High School in Fort Myers, Florida. (ADD)
-Photographs... (about collection)
+This is the about page demonstrating a digital exibit of school life at Dunbar Elementary and Dunbar High School in Fort Myers, Florida.
+Photographs depict student life.
 About the creator: Grace Gentle is a grad student at Florida Gulf Coast Univeristy and have created this CollectionBuilder for viewers to witness the experiences of student life at both Dunbar Elementary and Dunbar High School. 
 
 
