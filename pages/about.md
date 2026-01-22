@@ -10,13 +10,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
-
+## About Collection
 This is the about page demonstrating a digital exibit of school life at Dunbar Elementary and Dunbar High School in Fort Myers, Florida.
 Photographs depict student life.
 About the creator: Grace Gentle is a grad student at Florida Gulf Coast Univeristy and have created this CollectionBuilder for viewers to witness the experiences of student life at both Dunbar Elementary and Dunbar High School. 
-
-
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
         <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
