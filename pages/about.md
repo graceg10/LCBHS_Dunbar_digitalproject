@@ -19,8 +19,6 @@ Include some photos highlighting the school buildings, students, staff and facul
 
 ## A sneak peek 
 Add an oral history audio.  
-
-## Map
 Could place an image of a map and have the tab go directly to the map tab for viewers to witness an immersive view.
 
 ## Creditor
