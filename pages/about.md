@@ -20,7 +20,7 @@ Include some photos highlighting the school buildings, students, staff and facul
 ## A sneak peek 
 Add an oral history audio. 
 
-## Map
+## Map 
 Maybe include to orient people to Dunbar neighborhood. Directing to the map tab for a more immersive view. 
 
 ## Creditor
