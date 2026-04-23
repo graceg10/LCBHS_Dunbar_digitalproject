@@ -13,7 +13,7 @@ By bringing in the past of student life, the Lee County Black History Society Co
 
 {% include feature/image.html objectid= "fgcu_bhs_0082" width="75" %} 
 
-## Dunbar's Lasting Legacy
+## Dunbar's Lasting Legacy:
 A short news report capturing the lasting legacy of Dunbar High School provided by the local station, WGCU News provides a narrative towards the evolution of the High School, the purpose to provide a safe space for the Black community of Southwest Florida, and to bring attention to the community's local history. https://www.youtube.com/watch?v=gE1aT27HZKg
 
 ## About the Collection: 
@@ -21,13 +21,12 @@ In 1994 Janice Cass, an African American educator and attorney, founded the Lee 
 
 {% include feature/image.html objectid= "fgcu_bhs_0141" width="75" %} 
 
-## Creditor
+## Creditor:
 This CollectionBuilder was curated by Grace Gentle by using archival materials from the Lee County Black History Society Collection at Florida Gulf Coast Univeristy Library's University Archives and Special Collections. 
-
 ## About the Author: 
 Grace Gentle is a graduate student admitted to Florida Gulf Coast University and has compiled a digital collection on CollectionBuilder during her time working at the University’s Library Archives and Special Collections. She got her Bachelor’s in history and is currently working on obtaining her Masters in history at Florida Gulf Coast University. She has dedicated her time to FGCU's Library Archives and Special Collections and has contributed to various kinds of projects. Her recent work focuses on archival materials from Dunbar Elementary and High School provided by the Lee County Black History Society Collection. Gentle has been working at FGCU’s Library Archives and Special Collections during her undergraduate years as an intern and under the WiSER program during her graduate years. 
- Working with the Lee County Black History Society Collection has given me wonderful opportunities in the archival field. During my first year, I scanned photographs, manuscripts, and records from the LCBHS binders and digitized them in a folder. In addition, I organized the metadata into an Excel Sheet and updated other metadata sheets. The LCBHS collection was seperated by topics for organizational and chronological purposes and I had the opportunity to work with the Dunbar Easter Parade Collection and the Dunbar Schools Collection. 
-## Learn More
+ Working with the Lee County Black History Society Collection has given me wonderful opportunities in the archival field. During my first year, I scanned photographs, manuscripts, and records from the LCBHS binders and digitized them in a folder. In addition, I organized the metadata into an Excel Sheet and updated other metadata sheets. The LCBHS collection was seperated by topics for organizational and chronological purposes and I had the opportunity to work with the Dunbar Easter Parade Collection and the Dunbar Schools Collection.
+## More Information:
 To learn more information on the Lee County Black History Society and on Dunbar Elementary and Dunbar High School visit DigitalFGCU. 
 https://fgcu-flvc.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01FALSC_FGCU:CUSTOM&collectionId=81324018770006570&lang=en.
 
