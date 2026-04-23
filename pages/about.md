@@ -16,6 +16,8 @@ By bringing in the past of student life, the Lee County Black History Society Co
 ## About the Collection: 
 In 1994 Janice Cass, an African American educator and attorney, founded the Lee County Black History Society. Located in Fort Myers, Florida, the LCBHS consist of news articles, photographs and documents that highlight a variety of high school memorabilia and other special events, achievements and celebrations. The Lee County Black History Society has been in partnership with Florida Gulf Coast University Archives and Special Collections, whose team has been working hard at perserving the materials and teaching everyone about the Black History of Lee County. The collection also includes oral histories from African Americans who recounted their lived experiences in Lee County, marking not just on African American identity, but also bringing attention on the daily lives of African Americans in the community.
 
+{% include feature/image.html objectid= "fgcu_bhs_0082" width="75" %} 
+
 ## Creditor
 This CollectionBuilder was curated by Grace Gentle by using archival materials from the Lee County Black History Society Collection at Florida Gulf Coast Univeristy Library's University Archives and Special Collections. 
 
